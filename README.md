@@ -1,6 +1,4 @@
 # TI_takehome
-takehome challenge for TalentIQ
-
 
 
 Objective: To achieve improved understanding of the Likelihood score concept & potential implementation/use cases by creating targeted documentation for both product managers and developers. 
